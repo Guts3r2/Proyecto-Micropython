@@ -23,7 +23,7 @@ El proyecto está desarrollado en **MicroPython**, una implementación ligera de
 
 ## Esquema de conexión
 
-![Logo del proyecto](./Esquema.jpg)
+![Esquema Electrico Proyecto final](https://github.com/user-attachments/assets/d68af99b-794b-47d3-a9bb-6e9182da70f3)
 
 ## Instalación
 1. Clonar el repositorio en tu computadora:
